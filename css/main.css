@@ -25,3 +25,12 @@ nav ul li a {
   background-color: #d89fb0;
   border-color: #860927;
 }
+
+hr {
+  border-color: #e2e2e2;
+}
+
+.nav {
+  text-align: center
+}
+
